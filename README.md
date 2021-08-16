@@ -1,3 +1,13 @@
+# AWS Task 2 Links
+
+manual deployment:
+S3 Link: http://yafimchik-aws-task-2.s3-website-eu-west-1.amazonaws.com/
+CloudFront Link: https://d1i3dymf26wuox.cloudfront.net
+
+auto deployment:
+S3 Link: http://yafimchik-aws-task-2-single-page.s3-website-eu-west-1.amazonaws.com/
+CloudFront Link: https://do53qt03xcauy.cloudfront.net
+
 # Shop Angular Cloudfront
 
 Angular version: ~12.
